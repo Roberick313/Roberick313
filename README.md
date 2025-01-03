@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Roberick313
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python and any AI libraries that needed
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Roberick313@gmail.com
 
